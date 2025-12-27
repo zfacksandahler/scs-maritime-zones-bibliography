@@ -4,7 +4,8 @@ This file contains the collaboratively curated bibliography of key documents rel
 
 | Citation (Chicago author‑date) | Source Type | Geographical Focus | Key Summary | Contributor |
 |--------------------------------|-------------|-------------------|-------------|-------------|
-| *Entries will be added through the collaborative workflow* | | | | |
+| Permanent Court of Arbitration. 2016. "In the Matter of the South China Sea Arbitration before an Arbitral Tribunal Constituted under Annex VII to the United Nations Convention on the Law of the Sea (Philippines v. China)." PCA Case No. 2013-19, Award of 12 July 2016. | International Court Ruling | South China Sea (General) | The 2016 Award by the Permanent Court of Arbitration (PCA) constitutes a landmark ruling in the South China Sea disputes. The Tribunal found that China's "nine-dash line" maritime claims have no legal basis under UNCLOS, that none of the Spratly Islands qualify as fully entitled islands capable of generating exclusive economic zones, and that China had violated Philippine sovereign rights by interfering with fishing and petroleum exploration. This ruling is central to discussions of UNCLOS interpretation, maritime entitlements, and the legal framework for resolving sovereignty disputes in the region. | zfacksandahler |
+| *More entries will be added through the collaborative workflow* | | | | |
 
 ## Instructions for Contributors
 
